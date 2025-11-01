@@ -8,12 +8,13 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AQUI_COPIA_TU_API_KEY",
-  authDomain: "AQUI.firebaseapp.com",
-  projectId: "AQUI_TU_PROJECT_ID",
-  storageBucket: "AQUI.appspot.com",
-  messagingSenderId: "AQUI_TU_SENDER_ID",
-  appId: "AQUI_TU_APP_ID"
+  apiKey: "AIzaSyA548RIeriZ6jCy7jooBbROCD2G3xZ49b8",
+  authDomain: "eagles-bmx-tracker.firebaseapp.com",
+  projectId: "eagles-bmx-tracker",
+  storageBucket: "eagles-bmx-tracker.firebasestorage.app",
+  messagingSenderId: "512824391069",
+  appId: "1:512824391069:web:29cb6b8a1ba2884cdb6b74",
+  measurementId: "G-4MP7KBFDWD"
 };
 
 const app = initializeApp(firebaseConfig);
